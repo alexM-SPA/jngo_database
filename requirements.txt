@@ -1,0 +1,13 @@
+numpy>=2.3.1
+pandas>=2.2.3
+xarray>=2024.5.0
+plotly>=6.2.0
+plotly-express>=0.4.1
+narwhals>=1.47.0
+matplotlib>=3.8.4
+pyarrow>=20.0.0
+numexpr>=2.11.0
+streamlit>=1.37.0
+openpyxl>=3.1.5
+altair==5.5.0
+python-docx>=1.2.0
